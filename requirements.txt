@@ -1,8 +1,8 @@
 azure-ai-ml==1.19.0
 azure-ai-resources==1.0.0b8
 azure-search-documents==11.4.0
-promptflow==1.11.0
-promptflow[azure]==1.11.0
+promptflow==1.17.0
+promptflow[azure]==1.17.0
 promptflow-tools==1.4.0
 promptflow-evals==0.3.0
 azure-identity==1.16.1
