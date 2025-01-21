@@ -12,3 +12,4 @@ jsonlines==4.0.0
 promptflow.evals==0.3.0
 openpyxl==3.1.5
 openai<=1.44.1
+marshmallow==3.14.0
